@@ -1,4 +1,4 @@
-*This document, ratified on January 19, 2021, consists of the official policy policy of the Nintendo Independent Wiki Alliance. Any italic text in this document should be treated as a note.*
+*This document, ratified on January 19, 2021, consists of the official policy of the Nintendo Independent Wiki Alliance. Any italic text in this document should be treated as a note.*
 
 # Member Wikis
 
