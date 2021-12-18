@@ -1,0 +1,8 @@
+NIWA affiliates are websites, communities, and organizations that support our mission and share in our collaborative spirit.
+
+1. **Mission and topic**: The affiliate should support NIWA's mission, share in our collaborative spirit, and mesh well with our existing members and affiliates. While there is no specific topic area affiliates need to be under, we find that affiliates that cover videogames or other pop culture media fit particularly well.
+2. **Active**: The affiliate should be active. Depending on the nature of the website, it may not need constant updates, but it should be kept up to date and monitored.
+3. **Involvement**: NIWA shines when its members and affiliates collaborate and help out one another, and the affiliate's administration should intend to be involved in the network. At a minimum, this means being contactable, but we hope to see affiliates engage in discussion, share their best practices, and participate in events.
+4. **Operational and usable**: The affiliate's website should be fully operational, with no glaring technical errors or usability issues. The site should have a functional and accessible layout for both desktop and mobile users.
+5. **Intellectual property**: The affiliate should be respectful of intellectual property. This includes but is not limited to best efforts to abide by fair use; properly providing attribution or editing history for copied or forked content; and not distributing illegal content.
+6. **Secure**: The affiliate's website should practice good security standards, including but not limited to using a supported version of the website's software.
