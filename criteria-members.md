@@ -1,17 +1,15 @@
-Are you interested in your Wiki becoming a member of the Nintendo Independent Wiki Alliance? Check out these following guidelines to see if you should apply for membership:
+NIWA members are independent wikis that cover Nintendo topics. New members are expected to meet the following criteria as reviewed by existing members. Please note that meeting the following criteria does not guarantee membership. Just as well, if we see a wiki has great potential but is lacking in a few small ways, we may be able to accommodate.
 
-1. Your wiki's subject must be Nintendo-related. If it isn't, we may be willing to offer another manner of affiliation. For guidance on which games on Nintendo platforms qualify, please refer to this list.
-2. You and your staff should be familiar and enthusiastic about your subject's franchise.
-3. You should be prepared to pay for your own hosting, as NIWA is not a wiki host. We are willing to recommend hosts and inform you of hosts with whom we've had bad experiences.
-4. Your wiki should be operational, have a "complete" layout, and a competent active staff. A complete layout should be functional, aesthetically pleasing, and have all obvious features in place. No "under construction" or "content coming soon" labels should be present. Structural, Administration, and Policy Pages should be clearly defined and accessible.
-5. Your wiki must be independent, meaning it is not hosted by any of the following: Wikia/Fandom, ShoutWiki, WikiFoundry, etc. Please be aware that this is not a full list. If you are concerned over whether or not your host is independent, please contact us.
-6. You should have at least 75 articles, with a stub ratio of no more than 3 stubs for every 1 article (or <75% stubs).
-7. Your wiki should have a bit of "staying power" - that is to say, you must prove you have what it takes to last a while. Minimum wiki age of six months, with legitimate recent activity.
-8. Your wiki may not conflict with any existing NIWA Member Wiki's legitimate coverage without that wiki's expressed permission. Please contact a conflicting wiki ahead of time to verify conflict and work out a resolution.
-
-What we are looking for in a new member is one of the following:
-1. An already established wiki that is independent or planning to go independent. If you are not independent, but have a strong community and desire independence, we have many helpful people who can help you find hosting. Check out our forums to find help!
-2. Fresh start-up wikis that are being run with obvious passion and enthusiasm by people already somewhat established in that wiki's fandom. For example, Zelda Universe didn't create Mario Wiki - they created Zelda Wiki!
-3. Fresh start-up wikis started as internal projects of NIWA by the staff of existing NIWA member wikis. Examples include WiKirby and Metroid Wiki. These will come up within the staff itself, so don't worry about this too much.
-
-Please note that simply following these suggestions does not guarantee membership - these are just a few basic guidelines to follow before you even apply. Just as well, if we see a wiki has great potential but is lacking in just a few small ways, we can always work something out. Good luck, and we hope to hear from you soon.
+1. **Related to Nintendo**: The wiki's primary scope, or a significant portion of its coverage, must be related to Nintendo. This includes, but is not limited to covering games or franchises owned or strongly correlated with Nintendo. Wikis that fall out of scope may apply to be an affiliate of NIWA.
+2. **Active**: The wiki should be sufficiently active at a level proportional to its respective franchise. Wikis about inactive franchises may not need to be constantly edited, but the wiki should be kept up to date as needed and monitored for spam and vandalism.
+3. **Independent**: The wiki should be independent, meaning that decisioning and control of the wiki largely rests with the wiki's own staff and volunteer editing community, rather than an external party. Factors that contribute towards determining independence may include, but are not limited to:
+   1. The editorbase's editorial independence from the webhost or any external parties.
+   2. The editorbase's ability to request changes from the webhost or any other parties that have technical control over the site.
+   3. Any history of the webhost or external entities exerting decisions contrary to the wiki community's wishes.
+4. **Age**: In general, the wiki should be at least 6 months old to ensure longevity. Exceptions can be made for new franchises. If the wiki was recently forked from another provider, the history of the previous site may count towards the minimum age requirement if the majority of the community has moved over to the new wiki.
+5. **Coverage**: The wiki should have enough content for it to be useful to its audience, and should at least cover the most major topics for its subject. Level of coverage may be compared to other resources; a wiki that is the leader in its subject area may be granted more leniency than a wiki that falls behind other websites.
+6. **Policy and administration**: The wiki should have at least a minimally defined policy and administrative structure. The wiki should have active administration that displays maturity and competency in governing the site.
+7. **Involvement**: NIWA shines when its members and affiliates collaborate and help out one another, and so the wiki's administration should intend to be involved in the network. At a minimum, this means being contactable and participating in the occasional vote, but we hope to see all members engage in discussion, share their best practices, and participate in events.
+8. **Operational and usable**: The wiki should be fully operational, with no glaring technical errors or usability issues. The wiki should have a functional and accessible layout for both desktop and mobile users.
+9. **Intellectual property**: The wiki should be respectful of intellectual property. This includes but is not limited to best efforts to abide by fair use; properly providing attribution or editing history for copied or forked content; and not distributing illegal content.
+10. **Secure**: The wiki should practice good security standards, including but not limited to using a supported version of the wiki's software.
